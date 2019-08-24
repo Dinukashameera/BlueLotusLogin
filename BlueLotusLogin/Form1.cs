@@ -19,7 +19,7 @@ namespace BlueLotusLogin
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            //new code segment will be added in future
         }
     }
 }
