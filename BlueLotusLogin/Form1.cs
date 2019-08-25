@@ -15,6 +15,7 @@ namespace BlueLotusLogin
         public Form1()
         {
             InitializeComponent();
+            metroComboBox1.SelectedIndex = 0;
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -23,7 +24,6 @@ namespace BlueLotusLogin
             //new branch called dinukav1.0 is created
             //3rd comment is added
         }
-
 
     }
 }
